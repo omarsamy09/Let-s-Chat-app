@@ -1,4 +1,4 @@
-# Chat-app
+# Let's Chat
  A simple chat app consists of rooms and every room has its own chat 
  
  # Learning objectives
